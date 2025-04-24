@@ -15,6 +15,7 @@
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
   "runtime": "14.3",
+  "target": "Cloud",
   "idRanges": [
     {
       "from": 50000,
