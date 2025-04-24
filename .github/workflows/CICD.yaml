@@ -26,7 +26,6 @@ env:
 
 jobs:
   Initialization:
-    if: false
     needs: [ ]
     runs-on: [ windows-latest ]
     outputs:
